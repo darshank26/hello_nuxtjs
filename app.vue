@@ -1,3 +1,6 @@
 <template>
-  <div> Hello Nuxt.JS  </div>
+  <NuxtPage/>
+  <Welcome/>
+  <Counter/>
 </template>
+
